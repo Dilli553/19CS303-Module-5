@@ -113,7 +113,3 @@ d.showEmployee()
 ### RESULT
 Thus the program to get the employee and doctor details and display them using hierarchical inheritance has been implemented and executed successfully.
 
-(Output Screenshot)  
-
-
-### RESULT
